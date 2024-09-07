@@ -13,6 +13,13 @@ This project is a starting point for a Flutter application.
 Here’s a sample `README.md` file that outlines the setup instructions for a Flutter app. You can adapt the instructions based on your specific project and preferences.
 
 ---
+Features
+Product Listing: Display products with filtering.
+Product Details: View detailed product information including images, prices, and descriptions.
+Cart Management: Add and remove products from the cart.
+Search: Full-text search functionality to find products quickly.
+Responsive Design: Adaptive layout for different screen sizes.
+State Management:Using Provider State Management
 
 # Flutter App Setup Instructions
 
