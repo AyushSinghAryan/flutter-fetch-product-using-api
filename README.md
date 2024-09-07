@@ -14,7 +14,7 @@ Here’s a sample `README.md` file that outlines the setup instructions for a Fl
 
 ---
 ## Features
-Product Listing: Display products with filtering.< br/>
+Product Listing: Display products with filtering. < br>
 Product Details: View detailed product information including images, prices, and descriptions.< br/>
 Cart Management: Add and remove products from the cart.< br/>
 Search: Full-text search functionality to find products quickly.< br/>
