@@ -14,6 +14,8 @@ Here’s a sample `README.md` file that outlines the setup instructions for a Fl
 
 ---
 ## Features
+Badges : This will help in showing product count in Shopping cart
+
 Product Listing: Display products with filtering.
 
 Product Details: View detailed product information including images, prices, and descriptions.
@@ -24,7 +26,7 @@ Search: Full-text search functionality to find products quickly.
 
 Responsive Design: Adaptive layout for different screen sizes.
 
-State Management:Using Provider State Management
+State Management: Used Provider State Management for Cart state 
 
 # Flutter App Setup Instructions
 
